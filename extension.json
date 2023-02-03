@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Decoding Sign Language: A Deep Learning Approach with Generative Adversarial Networks (GANs)",
+    "description": "This project aims to utilize the power of deep learning and Generative Adversarial Networks (GANs) to generate images of hands doing sign language.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
