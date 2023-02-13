@@ -7,7 +7,7 @@ This project aims to utilize the power of deep learning and Generative Adversari
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-GAN%20Generative%20Adversarial%20Network-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-/master/reports/figures/Decoding-Sign-Language-with-GANs.png" width="900" height="135" /><br>
+<img src="https://raw.githubusercontent.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-/master/reports/figures/Decoding-Sign-Language-with-GANs.png?token=GHSAT0AAAAAAB3PXF5PIYE4EQ2JUH436AHMY7J2VKA" alt="banner that says Daniel Moreno">
 
 ## 🎊 Motivation:
 Sign language is a valuable means of communication for the deaf and hard of hearing community. However, it is often neglected and overlooked in society. With the advancement of deep learning and computer vision, this project aims to bridge the gap and shed light on the importance of sign language by decoding it into images that are easily understandable by the wider audience.
